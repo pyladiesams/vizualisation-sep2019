@@ -1,5 +1,5 @@
 # Data visualization with python
-### Level: Beginner - intermediate ??
+### Level: Beginner - intermediate 
 
 ## Project description
 
@@ -29,4 +29,4 @@ If you already have a running (ana)conda environment, you can use `py3_pyladies_
 * Start jupyter(lab) and navigate to the workshop folder
 
 ## Credits
-This workshop was set up by @pyladies and @margrietpalm
+This workshop was set up by @pyladiesams and @margrietpalm
