@@ -1,0 +1,15 @@
+#!/bin/bash
+
+reveal_dir=reveal
+
+installMenu() {
+  version=${1:-"1.2.0"}
+  filename=${version}.tar.gz
+  name=reveal.js-menu
+  wget -q https://github.com/denehyg/${name}/archive/${filename}
+  tar xzvf ${version}.tar.gz
+  rm -rf ${version}.tar.gz
+  mv ${name}-${version} ${reveal_dir}/plugin/menu
+}
+
+installMenu
