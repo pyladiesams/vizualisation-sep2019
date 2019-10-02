@@ -1,3 +1,6 @@
+
+Set GitHub Pages to `master branch /docs folder`.
+=======
 # Data visualization with python
 ### Level: Beginner - intermediate 
 

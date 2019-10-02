@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo $0
+fn="downloadAll"
+relpath="${0/$fn/}"
+path="$PWD/${relpath/./}"
+
+source $path/downloadRevealJs
+source $path/downloadMenu
