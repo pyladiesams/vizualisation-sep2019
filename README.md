@@ -1,9 +1,8 @@
 
-Set GitHub Pages to `master branch /docs folder`.
-=======
 # Data visualization with python
 ### Level: Beginner - intermediate 
-
+#### See presentation at https://pyladiesams.github.io/visualisation-sep2019/#/
+=================================
 ## Project description
 
 Data visualization is important for both data exploration and data presentation. Hence, good visualization skills will help you to better understand your data and to find the best way to present that understanding to others. During the workshop, people will learn how to use matplotlib and seaborn to explore data and how to use these libraries to adapt the crude exploratory plots into publication ready plots.
