@@ -1,7 +1,7 @@
 
 # Data visualization with python
 ### Level: Beginner - intermediate 
-### Presentationsslides at https://pyladiesams.github.io/visualisation-sep2019/ (navigate with arrow buttons)
+### Presentation: https://pyladiesams.github.io/visualisation-sep2019/ (navigate with arrow buttons)
 
 ## Project description
 
